@@ -5,3 +5,4 @@ def uppercase(str):
             index = chr(ord(index) - 32)
         print("{:s}".format(index), end='')
     print()
+    

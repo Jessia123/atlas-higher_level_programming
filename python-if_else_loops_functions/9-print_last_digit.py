@@ -10,3 +10,4 @@ def print_last_digit(number):
 
     print(lastDigit, end='')
     return(lastDigit)
+    
